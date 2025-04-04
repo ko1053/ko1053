@@ -1,7 +1,7 @@
-<h1>Senior Web and Mobile Developer</h1>
-<p>As a Senior React & React Native Developer with over 10 years of experience, I specialize in building scalable, high-performance web and mobile applications. My expertise spans React.js, React Native, TypeScript, and Next.js, with a focus on delivering seamless, user-centric digital experiences. I bring a strong emphasis on clean, maintainable code, performance optimization, and collaboration with cross-functional teams to ensure project success.
+<h1>Senior Full Stack Web Developer || AI-Powered Web & SaaS Solutions</h1>
+<p>As a Senior Full Stack Developer with over 10 years of experience, I specialize in crafting scalable, high-performance web applications and AI-powered SaaS solutions. My deep expertise spans across frontend development with React, Angular, and Next.js and backend development with Node.js, Express, PostgreSQL, Django. I am passionate about building seamless user experiences while ensuring system reliability and performance.
 
-Passionate about leveraging cutting-edge technologies, including AI integration, I have a proven track record of delivering scalable solutions for enterprise-level clients. Whether working on web or mobile applications, I am dedicated to crafting intuitive, high-quality user interfaces and creating innovative solutions that drive business growth.</p>
+I am adept at leading cross-functional teams, optimizing CI/CD pipelines, and implementing microservices architecture, which enhances scalability and system resilience. With a solid foundation in cloud technologies (AWS, Azure), containerization (Docker, Kubernetes), and automated testing frameworks, I consistently drive efficiency and reduce deployment times. If you're looking for a senior-level developer to transform your ideas into high-impact, AI-driven solutions, look no further.</p>
 
 <hr>
 <p align="left"> <img src="./awads.svg" alt="CoreTech" /> </p>
